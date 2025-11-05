@@ -245,7 +245,7 @@ SELECT * FROM extension WHERE language LIKE '#BASH';
    - icon-128x128.png
    - icon-192x192.png
    - icon-384x384.png
-   - icon-512x512.png
+     - icon-512x512.png
 6. Web optimise the images using [TinyPNG](https://tinypng.com/)
 7. Save the optimised icons to static/icons
 8. Save the optimised logo and favicon to static/images
